@@ -7,7 +7,7 @@ Esse é um projeto responsivo de um site para uma loja de drops Hypebeast feito 
 
 ## 🚀 Tecnologias
 Esse projeto foi desenvolvido para práticar o Flexbox.
-Certificado do curso da origamid onde aprendi Flexbox através [Desse link](origamid.com/certificate/c687afff)
+Certificado do curso da origamid onde aprendi Flexbox através [Desse link](https://origamid.com/certificate/c687afff)
 
 - HTML
 - CSS (Flexbox)
